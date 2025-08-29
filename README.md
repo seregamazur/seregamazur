@@ -6,30 +6,31 @@
 
 <h1>
 
-### About Me :
+### About Me
 
-Java Software Engineer from Europe.
-- :computer: More than 3 years of commercial experience in Healthcare, Digital Analytics and E-commerce
-- :mortar_board: Master's degree in Computer Software Engineering
-- :pencil: Oracle Certified Professional in Java 8 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6FCE23B88A7A7B57E5F63D98D6B877C1DB0FFC0DF4990D5CD3FCAB36B242374A"><img src="https://img.shields.io/badge/Credential-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="LinkedIn Badge"></a>
-
-
+💻 Java Software Engineer (Europe)  
+- 6+ years of commercial experience in Healthcare, Digital Analytics, and E-commerce  
+- 🎓 Master's degree in Computer Software Engineering  
+- ✅ Oracle Certified Professional, Java SE 8 Programmer  
+- ☸️ Certified Kubernetes Application Developer (CKAD)  
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### Certifications
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle Database" alt="Oracle Database" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="40" height="40"/>&nbsp;
-<img src="https://agmusiccenter.com/wp-content/uploads/2015/12/sonar-logo.png" title="SonarQube" alt="Sonar" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL"  alt="GraphQL" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-</p>
+- [Oracle Certified Professional, Java SE 8 Programmer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6FCE23B88A7A7B57E5F63D98D6B877C1DB0FFC0DF4990D5CD3FCAB36B242374A)  
+- [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/ff710cd9-ad8f-478d-9cff-bb9903c9d5c8/linked_in?t=sfkwxm)  
+
+---
+
+### Tech Stack
+
+- **Languages:** Java (8–21), Kotlin/Python, SQL, Bash  
+- **Frameworks:** Spring, Dropwizard  
+- **Messaging:** Apache Kafka  
+- **DevOps & Cloud:** Kubernetes, Docker  
+- **Monitoring:** Datadog, Splunk  
+- **Testing & Performance:** JUnit, Mockito, JMeter, Blazemeter  
 
 ---
 
