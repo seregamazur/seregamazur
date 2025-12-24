@@ -1,5 +1,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/serhiimazur/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://leetcode.com/u/smazu/"><img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"></a>
 
 # Hi, I'm Serhii 👋
 
